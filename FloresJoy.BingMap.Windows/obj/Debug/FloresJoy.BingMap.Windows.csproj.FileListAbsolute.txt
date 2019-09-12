@@ -1,0 +1,44 @@
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\bin\Debug\FloresJoy.BingMap.Windows.exe.config
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\bin\Debug\FloresJoy.BingMap.Windows.exe
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\bin\Debug\FloresJoy.BingMap.Windows.pdb
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\bin\Debug\RestSharp.dll
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\bin\Debug\RestSharp.xml
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.csprojAssemblyReference.cache
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\obj\Debug\App.g.cs
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows_MarkupCompile.cache
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows_MarkupCompile.lref
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\obj\Debug\MainWindow.baml
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.g.resources
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.Properties.Resources.resources
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.csproj.GenerateResource.cache
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.csproj.CoreCompileInputs.cache
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.csproj.CopyComplete
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.exe
+C:\Users\janwe\source\repos\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.pdb
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\bin\Debug\FloresJoy.BingMap.Windows.exe.config
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\bin\Debug\FloresJoy.BingMap.Windows.exe
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\bin\Debug\FloresJoy.BingMap.Windows.pdb
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\bin\Debug\RestSharp.dll
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\bin\Debug\RestSharp.xml
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.csprojAssemblyReference.cache
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\obj\Debug\App.g.cs
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows_MarkupCompile.cache
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows_MarkupCompile.lref
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\obj\Debug\MainWindow.baml
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.g.resources
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.Properties.Resources.resources
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.csproj.GenerateResource.cache
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.csproj.CoreCompileInputs.cache
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.csproj.CopyComplete
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.exe
+C:\Users\VGD PC 2\Desktop\FloresJoy.BingMap.Windows\obj\Debug\FloresJoy.BingMap.Windows.pdb
